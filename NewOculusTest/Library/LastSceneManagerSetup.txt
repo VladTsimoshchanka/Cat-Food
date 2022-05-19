@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes/WorkLevel1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/BossTalk.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/WorkLevel2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/EndTalk.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
